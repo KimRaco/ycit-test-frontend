@@ -2,7 +2,7 @@ footer {
     height: 100px;
     width: 100%;
     background-color: rgb(206, 228, 247);
-    position:absolute;
+   /* position:absolute; */
     bottom: 0;
 }
 
