@@ -1,0 +1,10 @@
+th {
+
+    --bs-table-bg: rgb(206, 228, 247) !important;
+
+}
+
+table {
+    max-width: 100px;
+    overflow: hidden;
+}
